@@ -23,7 +23,7 @@ To run Elixir on your system, you will need to install both Erlang and Elixir.
 
 ###
 ```
-elixir filename.exs
+elixir hello_world.exs
 ```
 
 
