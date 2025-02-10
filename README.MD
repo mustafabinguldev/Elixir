@@ -41,3 +41,17 @@ Using Homebrew: On macOS, you can install Elixir using the Homebrew package mana
 ```
     brew install elixir
 ```
+
+#### Linux
+Using apt: On Linux (Ubuntu), you can install Elixir using the apt package manager:
+```
+sudo apt-get update
+sudo apt-get install elixir
+```
+
+#### Check Elixir version:
+```
+elixir -v
+erl
+```
+
