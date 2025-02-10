@@ -21,24 +21,23 @@ To run Elixir on your system, you will need to install both Erlang and Elixir.
 - **Erlang**: Elixir runs on the Erlang virtual machine (VM), so Erlang must be installed first.
 - **Elixir**: After Erlang is installed, Elixir can be installed as well.
 
+###
+```
+elixir filename.exs
+```
+
+
 ### Installation
 
 #### Windows
 1. **Using Chocolatey**: The easiest way to install Elixir on Windows is through the Chocolatey package manager. First, install Chocolatey if you haven't already, and then run the following command:
    ```bash
-   choco install elixir```
+   choco install elixir
+   ```
 2.Manual Installation: Alternatively, you can download the Elixir installer from the official Elixir website and follow the instructions.
 
 #### macOS
 Using Homebrew: On macOS, you can install Elixir using the Homebrew package manager. Run the following command:
-```bash
-    brew install elixir```
-
-#### Linux (Ubuntu)
-Using apt: On Linux (Ubuntu), you can install Elixir using the apt package manager:
-```bash
-    
-    sudo apt-get update
-    sudo apt-get install elixir
-
-    ```
+```
+    brew install elixir
+```
